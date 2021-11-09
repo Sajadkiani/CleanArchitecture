@@ -1,0 +1,10 @@
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\bin\Debug\netstandard2.1\Education.Domain.Enums.deps.json
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\bin\Debug\netstandard2.1\Education.Domain.Enums.dll
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\bin\Debug\netstandard2.1\Education.Domain.Enums.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.csproj.AssemblyReference.cache
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.AssemblyInfoInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.AssemblyInfo.cs
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.csproj.CoreCompileInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.dll
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Enums\obj\Debug\netstandard2.1\Education.Domain.Enums.pdb

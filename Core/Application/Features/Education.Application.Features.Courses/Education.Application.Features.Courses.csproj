@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Courses\Services\" />
+    <Folder Include="CourseTypes\Commands\" />
+    <Folder Include="CourseTypes\Queries\" />
+    <Folder Include="CourseTypes\Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Education.Application.IStores\Education.Application.IStores.csproj" />
+    <ProjectReference Include="..\..\Education.Application.Models\Education.Application.Models.csproj" />
+  </ItemGroup>
+
+</Project>

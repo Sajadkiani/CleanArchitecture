@@ -1,0 +1,10 @@
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\bin\Debug\netstandard2.1\Education.Domain.Entities.deps.json
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\bin\Debug\netstandard2.1\Education.Domain.Entities.dll
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\bin\Debug\netstandard2.1\Education.Domain.Entities.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.AssemblyInfo.cs
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.dll
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Domain\Education.Domain.Entities\obj\Debug\netstandard2.1\Education.Domain.Entities.csproj.AssemblyReference.cache

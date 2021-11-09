@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Education.Infrastructure.Persistence.EF/1.0.0": {
+        "dependencies": {
+          "Education.Application.IStores": "1.0.0"
+        },
+        "runtime": {
+          "Education.Infrastructure.Persistence.EF.dll": {}
+        }
+      },
+      "Education.Application.IStores/1.0.0": {
+        "runtime": {
+          "Education.Application.IStores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Education.Infrastructure.Persistence.EF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Education.Application.IStores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

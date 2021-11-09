@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTCFetVMd+3wL+hLdSvAqIDRrwY3kjGtGcDgeaRYxXH7hpDoRHhL30vH4HWFGzD82OGHvggiEkfacyDOqpIs3w==",
+  "success": true,
+  "projectFilePath": "D:\\GitRepo\\Education\\Core\\Application\\Features\\Education.Application.Features.Courses\\Education.Application.Features.Courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.kiani\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\s.kiani\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\s.kiani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\s.kiani\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\s.kiani\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

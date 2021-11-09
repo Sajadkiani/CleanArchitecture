@@ -1,0 +1,17 @@
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.Features.Courses.deps.json
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.Features.Courses.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.Features.Courses.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.csproj.AssemblyReference.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.AssemblyInfoInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.AssemblyInfo.cs
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.csproj.CoreCompileInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.IStores.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.Models.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Domain.Entities.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.IStores.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Application.Models.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\bin\Debug\netstandard2.1\Education.Domain.Entities.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Features\Education.Application.Features.Courses\obj\Debug\netstandard2.1\Education.Application.Features.Courses.csproj.CopyComplete

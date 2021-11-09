@@ -1,0 +1,12 @@
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\bin\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.deps.json
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\bin\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.dll
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\bin\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.pdb
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.csproj.AssemblyReference.cache
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.AssemblyInfoInputs.cache
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.AssemblyInfo.cs
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.csproj.CoreCompileInputs.cache
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.dll
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\obj\Debug\netstandard2.1\Education.Infrastructure.Persistence.EF.pdb
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\bin\Debug\netstandard2.1\Education.Application.IStores.dll
+C:\Users\s.kiani\source\repos\Education\Infrastructure\Persistence\Education.Infrastructure.Persistence.EF\bin\Debug\netstandard2.1\Education.Application.IStores.pdb

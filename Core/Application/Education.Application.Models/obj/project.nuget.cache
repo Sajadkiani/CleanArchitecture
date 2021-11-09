@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1htqIx84hnPB0PhyLYSdoqowCHLhP5IknMJZ3MZnMJKkUoQNCt2Dq/w8RZ9aOwzUsG/syIX5vU4iVUvM9rQDw==",
+  "success": true,
+  "projectFilePath": "D:\\GitRepo\\Education\\Core\\Application\\Education.Application.Models\\Education.Application.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.kiani\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

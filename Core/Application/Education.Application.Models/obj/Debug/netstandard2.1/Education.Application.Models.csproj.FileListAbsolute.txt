@@ -1,0 +1,10 @@
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\bin\Debug\netstandard2.1\Education.Application.Models.deps.json
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\bin\Debug\netstandard2.1\Education.Application.Models.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\bin\Debug\netstandard2.1\Education.Application.Models.pdb
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.csproj.AssemblyReference.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.AssemblyInfoInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.AssemblyInfo.cs
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.dll
+C:\Users\s.kiani\source\repos\Education\Core\Application\Education.Application.Models\obj\Debug\netstandard2.1\Education.Application.Models.pdb
